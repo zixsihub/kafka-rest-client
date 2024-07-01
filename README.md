@@ -1,21 +1,13 @@
 # Kafka rest client
 
-[![Latest Stable Version](https://poser.pugx.org/lireincore/kafka-rest-client/v/stable)](https://packagist.org/packages/lireincore/kafka-rest-client)
-[![Total Downloads](https://poser.pugx.org/lireincore/kafka-rest-client/downloads)](https://packagist.org/packages/lireincore/kafka-rest-client)
-[![License](https://poser.pugx.org/lireincore/kafka-rest-client/license)](https://packagist.org/packages/lireincore/kafka-rest-client)
-
 ## About
 
 Kafka rest client for confluent rest proxy v2
 
 ## Install
 
-Add the `"lireincore/kafka-rest-client": "dev-master"` package to your `require` section in the `composer.json` file
-
-or
-
 ``` bash
-$ php composer.phar require lireincore/kafka-rest-client dev-master
+$ composer require lireincore/kafka-rest-client
 ```
 
 ## Usage
